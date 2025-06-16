@@ -5,4 +5,4 @@ matplotlib==3.6.3
 seaborn==0.12.2
 scikit-learn==1.2.2
 tensorflow
-python==3.11.0
+
